@@ -1,1 +1,1 @@
-# InternG
+# internG
